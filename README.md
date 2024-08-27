@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-![IIS](https://github.com/user-attachments/assets/c75bbebd-8f7b-4381-b74b-9bbd7ea54dba)
+
 
 >
 </p>
