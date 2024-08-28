@@ -43,14 +43,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://i.imgur.com/rT9Tr9c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<p>Administering IIS (Internet Information Services)
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/n9CGMZD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<p>Enable PHP Manager
 </p>
 <br />
 <img src="https://i.imgur.com/m4B7rr8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+Managing the Admin Panel of osTicket
